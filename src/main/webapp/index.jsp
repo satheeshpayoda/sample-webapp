@@ -4,7 +4,7 @@
 <html>
 <body>
 <h2>Sample Web Application</h2>
-<h3>Version 1.4 </h3>
+<h3>Version 1.5 </h3>
 <center><img src="<%=main.getImageURL()%>" /></center>
 </body>
 </html>
